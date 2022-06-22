@@ -1,4 +1,4 @@
-# [CheXMix](https://rvignav.github.io/covid19-cxr-seg/)
+# [CheXMix](https://rvignav.github.io/covid19-cxr-seg/): a [che]()st [X]()-ray dataset containing a [mix]()ture of patient X-rays and coronal CT projections
 
 <a href="https://orcid.org/0000-0002-6521-7898"><img height="15" src="https://github.com/rvignav/CT2Xray/blob/master/docs/orcid.png"></a>&nbsp;Vignav Ramesh, <a href="https://orcid.org/0000-0002-4490-0444"><img height="15" src="https://github.com/rvignav/CT2Xray/blob/master/docs/orcid.png"></a>&nbsp;Blaine Rister, <a href="https://orcid.org/0000-0001-5057-4369"><img height="15" src="https://github.com/rvignav/CT2Xray/blob/master/docs/orcid.png"></a>&nbsp;Daniel L. Rubin
 
